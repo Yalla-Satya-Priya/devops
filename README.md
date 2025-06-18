@@ -45,5 +45,7 @@ scanf(%d,&a,&b);
 ----------
 
 ###### Insert Any URl
-[priya](https://www.google.com)
+[Priya](https://www.google.com)
 
+###### Insert Any URl
+[Satya](text.txt)

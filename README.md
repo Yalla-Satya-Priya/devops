@@ -23,3 +23,11 @@ int a, b;
 print("Enter value");
 scanf(%d,&a,&b);
 }~
+
+`#include<stdion.h>
+main()
+{
+int a, b;
+print("Enter value");
+scanf(%d,&a,&b);
+}`
